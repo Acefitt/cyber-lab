@@ -1,0 +1,1 @@
+Created test user 'student' and added to sudo.
