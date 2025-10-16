@@ -1,0 +1,2 @@
+Day 1 - Kali installed and tools setup complete.
+Network test successful ✅ - Day 1 complete
